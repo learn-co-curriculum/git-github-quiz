@@ -1,0 +1,1018 @@
+{
+  "quiz": {
+    "id": 31701,
+    "title": "Git and GitHub Quiz",
+    "html_url": "https://learning.flatironschool.com/courses/3297/quizzes/31701",
+    "mobile_url": "https://learning.flatironschool.com/courses/3297/quizzes/31701?force_user=1&persist_headless=1",
+    "description": "<div id=\"git-data-element\" data-org=\"learn-co-curriculum\" data-repo=\"\"></div>\n<header class=\"fis-header\"><a class=\"fis-git-link\" href=\"https://github.com/learn-co-curriculum/%20/issues/new\" target=\"_blank\"><img id=\"issue-img\" title=\"Create New Issue\" alt=\"Create New Issue\"></a></header>\n<p>It's time to check your knowledge! Use this quiz to create a custom study guide. Note any answers that were marked incorrect, so you can study the relevant material and try this quiz again.</p>\n<p>If you don't know the answer to a question, please do not guess. Instead, select \"I don't know\". It's OK not to know everything and to admit when we're unsure.</p>",
+    "quiz_type": "assignment",
+    "time_limit": null,
+    "timer_autosubmit_disabled": false,
+    "shuffle_answers": true,
+    "show_correct_answers": true,
+    "scoring_policy": "keep_highest",
+    "allowed_attempts": 3,
+    "one_question_at_a_time": true,
+    "question_count": 16,
+    "points_possible": 16.0,
+    "cant_go_back": false,
+    "access_code": null,
+    "ip_filter": null,
+    "due_at": null,
+    "lock_at": null,
+    "unlock_at": null,
+    "published": false,
+    "unpublishable": true,
+    "locked_for_user": true,
+    "lock_info": {
+      "missing_permission": "participate_as_student",
+      "asset_string": "quizzes:quiz_31701"
+    },
+    "lock_explanation": "This quiz is currently locked.",
+    "hide_results": null,
+    "show_correct_answers_at": null,
+    "hide_correct_answers_at": null,
+    "all_dates": [
+      {
+        "due_at": null,
+        "unlock_at": null,
+        "lock_at": null,
+        "base": true
+      }
+    ],
+    "can_unpublish": true,
+    "can_update": true,
+    "require_lockdown_browser": false,
+    "require_lockdown_browser_for_results": false,
+    "require_lockdown_browser_monitor": false,
+    "lockdown_browser_monitor_data": null,
+    "speed_grader_url": null,
+    "permissions": {
+      "manage": true,
+      "read": true,
+      "create": true,
+      "update": true,
+      "submit": true,
+      "preview": true,
+      "delete": true,
+      "read_statistics": true,
+      "grade": true,
+      "review_grades": true,
+      "view_answer_audits": true
+    },
+    "quiz_reports_url": "https://learning.flatironschool.com/api/v1/courses/3297/quizzes/31701/reports",
+    "quiz_statistics_url": "https://learning.flatironschool.com/api/v1/courses/3297/quizzes/31701/statistics",
+    "message_students_url": "https://learning.flatironschool.com/api/v1/courses/3297/quizzes/31701/submission_users/message",
+    "section_count": 1,
+    "important_dates": false,
+    "quiz_submission_versions_html_url": "https://learning.flatironschool.com/courses/3297/quizzes/31701/submission_versions",
+    "assignment_id": 191819,
+    "one_time_results": false,
+    "only_visible_to_overrides": false,
+    "assignment_group_id": 10827,
+    "show_correct_answers_last_attempt": true,
+    "version_number": 1,
+    "has_access_code": false,
+    "post_to_sis": false,
+    "migration_id": null,
+    "in_paced_course": false,
+    "question_types": [
+
+    ]
+  },
+  "questions": [
+    {
+      "id": 210212,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 331940,
+      "position": null,
+      "question_name": "Question 1",
+      "question_type": "multiple_answers_question",
+      "question_text": "<p>Which of the following are potential benefits of using a version control system (VCS)? Select all that apply.</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Intro to Version Control\" href=\"https://learning.flatironschool.com/courses/3297/pages/intro-to-version-control\">Intro to Version Control</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": "2052",
+          "text": "It creates a backup of your work.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "6756",
+          "text": "It makes it easier to correct mistakes or undo changes.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "307",
+          "text": "It can be used to provide documentation of your project's history.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "7414",
+          "text": "It makes it easier for multiple people to work on a project at the same time.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "5535",
+          "text": "It removes the possibility of conflicts arising between different teammates' code.",
+          "comments": "",
+          "comments_html": "<p>Not quite. Although using a VCS can help make conflicts less likely, they may still arise.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": "147",
+          "text": "I don't know.",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210218,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 331950,
+      "position": null,
+      "question_name": "Question 2",
+      "question_type": "true_false_question",
+      "question_text": "<p>When we run <code>git add .</code>, <strong>all</strong> files that have been created or modified since the last commit are staged and will be included in the next commit.&nbsp;</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\".gitignore\" href=\"https://learning.flatironschool.com/courses/3297/pages/dot-gitignore\">.gitignore</a></li>\n</ul>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "<p>Not quite. Be sure to review the <code>.gitignore</code> source for this question. You'll get it next time!</p>",
+          "text": "True",
+          "weight": 0,
+          "id": 7308
+        },
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
+          "weight": 100,
+          "id": 8086
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210219,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 331969,
+      "position": null,
+      "question_name": "Question 3",
+      "question_type": "matching_question",
+      "question_text": "<p>Match each git command with the description that best suits it.</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n<li><a title=\"Viewing the Git Commit History\" href=\"https://learning.flatironschool.com/courses/3297/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n<li><a title=\"Working with Branches\" href=\"https://learning.flatironschool.com/courses/3297/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 357,
+          "text": "git stash",
+          "left": "git stash",
+          "right": "Enables you to temporarily save uncommitted changes so you can switch branches.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 246
+        },
+        {
+          "id": 602,
+          "text": "git clone",
+          "left": "git clone",
+          "right": "Enables you to copy a GitHub repo to your local environment.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 8772
+        },
+        {
+          "id": 614,
+          "text": "git remote",
+          "left": "git remote",
+          "right": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 9364
+        },
+        {
+          "id": 135,
+          "text": "git diff",
+          "left": "git diff",
+          "right": "Lists the differences between two versions of a project (e.g., at two different points in the project's history).",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 572
+        },
+        {
+          "id": 6187,
+          "text": "git log",
+          "left": "git log",
+          "right": "Lists all the commits that have been made to a project.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 6155
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": [
+        {
+          "text": "Enables you to temporarily save uncommitted changes so you can switch branches.",
+          "match_id": 246
+        },
+        {
+          "text": "Enables you to copy a GitHub repo to your local environment.",
+          "match_id": 8772
+        },
+        {
+          "text": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo.",
+          "match_id": 9364
+        },
+        {
+          "text": "Lists the differences between two versions of a project (e.g., at two different points in the project's history).",
+          "match_id": 572
+        },
+        {
+          "text": "Lists all the commits that have been made to a project.",
+          "match_id": 6155
+        }
+      ],
+      "matching_answer_incorrect_matches": ""
+    },
+    {
+      "id": 210254,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 331970,
+      "position": null,
+      "question_name": "Question 4",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>What happens if you run <code>git commit</code> and forget to include a commit message?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Maintaining a Clean, Well-documented Commit History\" href=\"https://learning.flatironschool.com/courses/3297/pages/maintaining-a-clean-well-documented-commit-history\">Maintaining a Clean, Well-documented Commit History</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 1290,
+          "text": "Neither of these choices is true",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": 8834,
+          "text": "Git aborts the commit",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Not quite! Git opens a new file to allow you to enter a commit message. It only aborts the commit if you close the file without entering a commit message and saving it first.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": 9628,
+          "text": "",
+          "html": "<p>By default, Git opens a file in whatever text editor you normally use, allowing you to enter a commit message.</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite! Git opens a file in the default Git command line editor. In order for Git to use VS Code (or other text editor) as the Git command line editor, you need to configure that separately.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": 2527,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210489,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332079,
+      "position": null,
+      "question_name": "Question 5",
+      "question_type": "multiple_answers_question",
+      "question_text": "<p>The <code>git diff</code> command can be used to make which of the following comparisons? Select all that apply.</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"https://learning.flatironschool.com/courses/3297/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": "986",
+          "text": "Changes that have not yet been committed vs. the most recent commit.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "7360",
+          "text": "Changes that have not yet been staged vs. the most recent commit.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "3110",
+          "text": "Any two commits.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "9643",
+          "text": "Any two branches.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "4880",
+          "text": "I don't know",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210490,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332080,
+      "position": null,
+      "question_name": "Question 6",
+      "question_type": "multiple_answers_question",
+      "question_text": "<p>Under normal circumstances (i.e., when <code>HEAD</code> is <strong>not</strong> in a detached state), <code>HEAD</code> refers to which of the following?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"https://learning.flatironschool.com/courses/3297/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": "234",
+          "text": "The most recent commit on the branch that is currently checked out.",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": "6799",
+          "text": "The most recent commit on the main branch.",
+          "comments": "",
+          "comments_html": "<p>Close! <code>HEAD</code> refers to the most recent commit on whatever branch is currently checked out, which may or may not be the main branch.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": "7691",
+          "text": "I don't know",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210491,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332081,
+      "position": null,
+      "question_name": "Question 7",
+      "question_type": "short_answer_question",
+      "question_text": "<p>What markdown would we use to display \"Instructions\" as a second-level header? Fill in the blank:</p>\n<p><span>____ Instructions</span></p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"https://learning.flatironschool.com/courses/3297/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": "6408",
+          "text": "##",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210492,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332082,
+      "position": null,
+      "question_name": "Question 8",
+      "question_type": "true_false_question",
+      "question_text": "<p>The abbreviated version of the SHA can be used in place of the full SHA in any Git command.</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Git Basics\" href=\"https://learning.flatironschool.com/courses/3297/pages/git-basics\">Git Basics</a></li>\n</ul>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "True",
+          "weight": 100,
+          "id": 4949
+        },
+        {
+          "comments": "",
+          "comments_html": "<p>Not quite. The abbreviated SHA shown by Git in some views uniquely identifies the commit and can be used in place of the full SHA.</p>",
+          "text": "False",
+          "weight": 0,
+          "id": 8569
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210536,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332086,
+      "position": null,
+      "question_name": "Question 9",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p><span>What is&nbsp;</span><code>git branch</code><span>?</span></p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"https://learning.flatironschool.com/courses/3297/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 3198,
+          "text": "A command that creates a separate set of commits from other commits to the same repository.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": 1192,
+          "text": "A command that creates a copy of the repository in your git profile",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 4836,
+          "text": "A command that combines two repositories.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 2336,
+          "text": "A command that splits files into folders",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 5594,
+          "text": "A command that switches your work to the main branch.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 8882,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210550,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332214,
+      "position": null,
+      "question_name": "Question 10",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>Which one of the following actions creates a copy of a repository in the GitHub account of the person performing the action?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 2097,
+          "text": "Forking a repository",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>CORRECT!!&nbsp; Forking a repository creates a copy of the original repository in your account so you can make changes without affecting the original repository until you choose to submit a pull request which lets the owner know you have suggested changes that you think they should merge.</span></p>",
+          "weight": 100.0
+        },
+        {
+          "id": 8808,
+          "text": "Cloning a repository",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Not quite. <span>Cloning a repository creates a working copy of one of your repositories so you can make changes and push them to the remote on GitHub.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 6944,
+          "text": "Creating a branch",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Not quite. Creating a branch allows anyone collaborating on the same repository to work on changes without affecting the main branch for the purpose of merging the changes later.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 6818,
+          "text": "Using pull to retrieve a repository",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Not quite. Using the <code>git pull</code> command pulls the current state from the remote on GitHub to ensure that your local copy is up to date.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 4370,
+          "text": "Merging a branch in a repository",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Not quite. <span style=\"color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;\">Merging a branch. syncs the commits from a branch to the master branch.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 9645,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210554,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332218,
+      "position": null,
+      "question_name": "Question 11",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>Which of the following is the best description of GitHub?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 8363,
+          "text": "An internet hosting service for software development and version control using Git",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>CORRECT!! Github is an internet hosting service for software development and version control using Git.&nbsp;</span><span>It offers the distributed version control and source code management functionality of Git, plus its own features.</span></p>",
+          "weight": 100.0
+        },
+        {
+          "id": 3658,
+          "text": "An software package for project collaboration",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Not quite. Collaboration is a great feature of GitHub, but not its main focus or purpose.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 7346,
+          "text": "An online application for connecting with other users",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Not quite. <span>GitHub is not for connecting with other users, although it does have some functionality that allows you to connect with others.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 6516,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source(s) for this question. You'll get it next time!</p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210555,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332219,
+      "position": null,
+      "question_name": "Question 12",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p><span>Why would you fork a repository before cloning?</span></p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n<li><a title=\"Collaborating with Git and GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 5642,
+          "text": "So that you can collaborate with the repository's owner",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>CORRECT!! When you create a fork in a repository, you are creating your own branch in the repository so that you can work with the repository locally to make changes to the contents of the repository and submit a pull request for the owner to review your suggested changes.</span></p>",
+          "weight": 100.0
+        },
+        {
+          "id": 9700,
+          "text": "So that you can pull changes down",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Creating the fork and cloning it pulls the current state of the repository at that point, but any future changes will need to be pulled manually.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 4864,
+          "text": "So that you can publish any changes you make",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>You can publish changes to the contents of the repository by simply cloning, although your changes will not be added as suggestions on the original repository without forking.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 9081,
+          "text": "So that you can have the repo locally",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Cloning alone will give you the contents of the repository for you to work with, there is no need to fork unless you wish to collaborate with the original repository owner.</span></p>",
+          "weight": 0.0
+        },
+        {
+          "id": 14,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210561,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332220,
+      "position": null,
+      "question_name": "Question 13",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>What is <code>git branch</code>?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"https://learning.flatironschool.com/courses/3297/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 3673,
+          "text": "A command that creates a separate set of commits from other commits to the same repository.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": 5553,
+          "text": "A command that creates a copy of the repository in your git profile",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 4488,
+          "text": "A command that combines two repositories.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 441,
+          "text": "A command that splits files into folders",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 7521,
+          "text": "A command that switches your work to the main branch.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 6692,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source(s) for this question. You'll get it next time!</p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210562,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332221,
+      "position": null,
+      "question_name": "Question 14",
+      "question_type": "multiple_choice_question",
+      "question_text": "<div id=\"question_162984_question_text\" class=\"question_text user_content enhanced\">\n<p>What is the command to check out and begin working on an<span>&nbsp;</span><strong>existing</strong><span>&nbsp;</span>branch called<span>&nbsp;</span><code>bobs_branch</code>?</p>\n</div>\n<div class=\"answers\">\n<div class=\"answers_wrapper\">\n<div id=\"answer_7686\" class=\"answer answer_for_                                                   correct_answer\" title=\". This was the correct answer.\" aria-describedby=\"answer_7686_arrow\"></div>\n</div>\n</div>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"https://learning.flatironschool.com/courses/3297/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 1012,
+          "text": "",
+          "html": "<p><code>git switch bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": 8768,
+          "text": "",
+          "html": "<p><code>git branch bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 3310,
+          "text": "",
+          "html": "<p><code>git new bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 3681,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p><span>Be sure to review the source/s for this question. You'll get it next time!</span></p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210563,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332222,
+      "position": null,
+      "question_name": "Question 15",
+      "question_type": "short_answer_question",
+      "question_text": "<p>The <code>git merge</code> command is used to merge one ____ into another.&nbsp;</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Merging Branches with Git\" href=\"https://learning.flatironschool.com/courses/3297/pages/merging-branches-with-git\">Merging Branches with Git</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": "8377",
+          "text": "branch",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100
+        },
+        {
+          "id": "2394",
+          "text": "Branch",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 210564,
+      "quiz_id": 31701,
+      "quiz_group_id": null,
+      "assessment_question_id": 332223,
+      "position": null,
+      "question_name": "Question 16",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>What is a pull request?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Collaborating with Git and GitHub\" href=\"https://learning.flatironschool.com/courses/3297/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li>\n</ul>",
+      "answers": [
+        {
+          "id": 1578,
+          "text": "A request to other members of a team that two branches be merged.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
+        },
+        {
+          "id": 1447,
+          "text": "A request to other members of a team to pull a repo down to their local computers.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 3833,
+          "text": "A git command to pull changes to a repo down to your local copy.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 3255,
+          "text": "A request to clone someone else’s repository.",
+          "html": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
+        },
+        {
+          "id": 7494,
+          "text": "I don't know",
+          "html": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source(s) for this question. You'll get it next time!</p>",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    }
+  ]
+}
