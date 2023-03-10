@@ -1,6 +1,6 @@
 ---
-id: 31701
-course_id: 3297
+id: 42564
+course_id: 6638
 repo: git-github-quiz
 ---
 
