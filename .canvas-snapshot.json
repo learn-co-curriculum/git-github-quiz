@@ -4,7 +4,7 @@
     "title": "Git and GitHub Quiz",
     "html_url": "https://learning.flatironschool.com/courses/6638/quizzes/42564",
     "mobile_url": "https://learning.flatironschool.com/courses/6638/quizzes/42564?force_user=1&persist_headless=1",
-    "description": "<div id=\"git-data-element\" data-org=\"learn-co-curriculum\" data-repo=\"git-github-quiz\"></div>\n<header class=\"fis-header\"><a class=\"fis-git-link\" href=\"https://github.com/learn-co-curriculum/git-github-quiz/issues/new\" target=\"_blank\"><img id=\"issue-img\" title=\"Create New Issue\" alt=\"Create New Issue\"></a></header>\n<p>It's time to check your knowledge! Use this quiz to create a custom study guide. Note any answers that were marked incorrect, so you can study the relevant material and try this quiz again.</p>\n<p>If you don't know the answer to a question, please do not guess. Instead, select \"I don't know\". It's OK not to know everything and to admit when we're unsure.</p>",
+    "description": "<div id=\"git-data-element\" data-org=\"learn-co-curriculum\" data-repo=\"git-github-quiz\"></div>\n<header class=\"fis-header\">\n  <a class=\"fis-git-link\" href=\"https://github.com/learn-co-curriculum/git-github-quiz/issues/new\" target=\"_blank\"><img id=\"issue-img\" title=\"Create New Issue\" alt=\"Create New Issue\"></a>\n</header>\n\n<p>It's time to check your knowledge! Use this quiz to create a custom study guide.\nNote any answers that were marked incorrect, so you can study the relevant\nmaterial and try this quiz again.</p>\n\n<p>If you don't know the answer to a question, please do not guess. Instead, select\n\"I don't know\". It's OK not to know everything and to admit when we're unsure.</p>",
     "quiz_type": "assignment",
     "time_limit": null,
     "timer_autosubmit_disabled": false,
@@ -71,7 +71,7 @@
     "only_visible_to_overrides": false,
     "assignment_group_id": 19770,
     "show_correct_answers_last_attempt": true,
-    "version_number": 3,
+    "version_number": 4,
     "has_access_code": false,
     "post_to_sis": false,
     "migration_id": "g837a7f93e36395b5859f35635e6475e4",
@@ -85,56 +85,66 @@
       "id": 289914,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 1,
+      "assessment_question_id": 631169,
+      "position": null,
       "question_name": "Question 1",
       "question_type": "multiple_answers_question",
-      "question_text": "Which of the following are potential benefits of using a version control system (VCS)? Select all that apply.",
+      "question_text": "<p>Which of the following are potential benefits of using a version control system\n(VCS)? Select all that apply.</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Intro to Version Control",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Intro to Version Control\" href=\"/courses/6638/pages/intro-to-version-control\">Intro to Version Control</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/intro-to-version-control\">Intro to Version Control</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_2052",
-          "id": 2052,
-          "text": "It creates a backup of your work."
+          "id": 9818,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>It creates a backup of your work.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_6756",
-          "id": 6756,
-          "text": "It makes it easier to correct mistakes or undo changes."
+          "id": 1886,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>It makes it easier to correct mistakes or undo changes.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_307",
-          "id": 307,
-          "text": "It can be used to provide documentation of your project's history."
+          "id": 2116,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>It can be used to provide documentation of your project's history.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_7414",
-          "id": 7414,
-          "text": "It makes it easier for multiple people to work on a project at the same time."
+          "id": 3404,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>It makes it easier for multiple people to work on a project at the same time.</p>"
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_5535",
-          "id": 5535,
-          "text": "It removes the possibility of conflicts arising between different teammates' code.",
-          "comments": "Not quite. Although using a VCS can help make conflicts less likely, they may still arise."
+          "id": 3513,
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Not quite. Although using a VCS can help make conflicts less likely, they may\nstill arise.</p>",
+          "weight": 0.0,
+          "html": "<p>It removes the possibility of conflicts arising between different teammates'\ncode.</p>"
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_147",
-          "id": 147,
-          "text": "I don't know.",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 1236,
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0,
+          "html": "<p>I don't know.</p>"
         }
       ],
       "variables": null,
@@ -148,32 +158,32 @@
       "id": 289915,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 2,
+      "assessment_question_id": 631174,
+      "position": null,
       "question_name": "Question 2",
       "question_type": "true_false_question",
-      "question_text": "When we run <code>git add .</code>, <strong>all</strong> files that have been created or modified since the last commit are staged and will be included in the next commit.&nbsp;",
+      "question_text": "<p>When we run <code>git add .</code>, <strong>all</strong> files that have been created or modified since\nthe last commit are staged and will be included in the next commit.&nbsp;</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  .gitignore",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\".gitignore\" href=\"/courses/6638/pages/dot-gitignore\">.gitignore</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/dot-gitignore\">.gitignore</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_7308",
-          "id": 7308,
+          "comments": "",
+          "comments_html": "<p>Not quite. Be sure to review the <code>.gitignore</code> source for this question. You'll\nget it next time!</p>",
           "text": "True",
-          "comments": "Not quite. Be sure to review the .gitignore source for this question. You'll get it next time!",
-          "comments_html": "Not quite. Be sure to review the <code>.gitignore</code> source for this question. You'll get it next time!"
+          "weight": 0,
+          "id": 7308
         },
         {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
           "weight": 100,
-          "migration_id": "RESPONSE_8086",
-          "id": 8086,
-          "text": "False"
+          "id": 8086
         }
       ],
       "variables": null,
@@ -187,53 +197,63 @@
       "id": 289916,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 3,
+      "assessment_question_id": 631168,
+      "position": null,
       "question_name": "Question 3",
       "question_type": "matching_question",
-      "question_text": "Match each git command with the description that best suits it.",
+      "question_text": "<p>Match each git command with the description that best suits it.</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Getting Code with GitHub Viewing the Git Commit History Working with Branches",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n<li><a title=\"Viewing the Git Commit History\" href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n<li><a title=\"Working with Branches\" href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li><li><a href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li><li><a href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li></ul><p></p>",
       "answers": [
         {
+          "id": "357",
           "text": "git stash",
-          "id": 357,
-          "match_id": 246,
           "left": "git stash",
-          "right": "Enables you to temporarily save uncommitted changes so you can switch branches."
+          "right": "Enables you to temporarily save uncommitted changes so you can switch branches.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 6540
         },
         {
+          "id": "602",
           "text": "git clone",
-          "id": 602,
-          "match_id": 8772,
           "left": "git clone",
-          "right": "Enables you to copy a GitHub repo to your local environment."
+          "right": "Enables you to copy a GitHub repo to your local environment.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 8847
         },
         {
+          "id": "614",
           "text": "git remote",
-          "id": 614,
-          "match_id": 9364,
           "left": "git remote",
-          "right": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo."
+          "right": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 9944
         },
         {
+          "id": "135",
           "text": "git diff",
-          "id": 135,
-          "match_id": 572,
           "left": "git diff",
-          "right": "Lists the differences between two versions of a project (e.g., at two different points in the project's history)."
+          "right": "Lists the differences between two versions of a project (e.g., at two different points in the project's history).",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 4950
         },
         {
+          "id": "6187",
           "text": "git log",
-          "id": 6187,
-          "match_id": 6155,
           "left": "git log",
-          "right": "Lists all the commits that have been made to a project."
+          "right": "Lists all the commits that have been made to a project.",
+          "comments": "",
+          "comments_html": "",
+          "match_id": 7821
         }
       ],
       "variables": null,
@@ -242,71 +262,76 @@
       "formula_decimal_places": null,
       "matches": [
         {
-          "match_id": 246,
-          "text": "Enables you to temporarily save uncommitted changes so you can switch branches."
+          "text": "Enables you to temporarily save uncommitted changes so you can switch branches.",
+          "match_id": 6540
         },
         {
-          "match_id": 8772,
-          "text": "Enables you to copy a GitHub repo to your local environment."
+          "text": "Enables you to copy a GitHub repo to your local environment.",
+          "match_id": 8847
         },
         {
-          "match_id": 9364,
-          "text": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo."
+          "text": "Returns a nickname used to refer to the GitHub repo that's associated with a local repo.",
+          "match_id": 9944
         },
         {
-          "match_id": 572,
-          "text": "Lists the differences between two versions of a project (e.g., at two different points in the project's history)."
+          "text": "Lists the differences between two versions of a project (e.g., at two different points in the project's history).",
+          "match_id": 4950
         },
         {
-          "match_id": 6155,
-          "text": "Lists all the commits that have been made to a project."
+          "text": "Lists all the commits that have been made to a project.",
+          "match_id": 7821
         }
       ],
-      "matching_answer_incorrect_matches": null
+      "matching_answer_incorrect_matches": ""
     },
     {
       "id": 289917,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 4,
+      "assessment_question_id": 631170,
+      "position": null,
       "question_name": "Question 4",
       "question_type": "multiple_choice_question",
-      "question_text": "What happens if you run <code>git commit</code> and forget to include a commit message?",
+      "question_text": "<p>What happens if you run <code>git commit</code> and forget to include a commit message?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Maintaining a Clean, Well-documented Commit History",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Maintaining a Clean, Well-documented Commit History\" href=\"/courses/6638/pages/maintaining-a-clean-well-documented-commit-history\">Maintaining a Clean, Well-documented Commit History</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/maintaining-a-clean-well-documented-commit-history\">Maintaining a Clean, Well-documented Commit History</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_1290",
-          "id": 1290,
-          "text": "Neither of these choices is true"
+          "id": 6664,
+          "text": "",
+          "html": "<p>Neither of these choices is true</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_8834",
-          "id": 8834,
-          "text": "Git aborts the commit",
-          "comments": "Not quite! Git opens a new file to allow you to enter a commit message. It only aborts the commit if you close the file without entering a commit message and saving it first."
+          "id": 1703,
+          "text": "",
+          "html": "<p>Git aborts the commit</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite! Git opens a new file to allow you to enter a commit message. It only\naborts the commit if you close the file without entering a commit message and\nsaving it first.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_9628",
-          "id": 9628,
-          "text": "By default, Git opens a file in whatever text editor you normally use, allowing you to enter a commit message.",
-          "comments": "Not quite! Git opens a file in the default Git command line editor. In order for Git to use VS Code (or other text editor) as the Git command line editor, you need to configure that separately."
+          "id": 9541,
+          "text": "",
+          "html": "<p>By default, Git opens a file in whatever text editor you normally use, allowing\nyou to enter a commit message.</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite! Git opens a file in the default Git command line editor. In order for\nGit to use VS Code (or other text editor) as the Git command line editor, you\nneed to configure that separately.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_2527",
-          "id": 2527,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 5721,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -320,49 +345,58 @@
       "id": 289918,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 5,
+      "assessment_question_id": 631165,
+      "position": null,
       "question_name": "Question 5",
       "question_type": "multiple_answers_question",
-      "question_text": "The <code>git diff</code> command can be used to make which of the following comparisons? Select all that apply.",
+      "question_text": "<p>The <code>git diff</code> command can be used to make which of the following comparisons?\nSelect all that apply.</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Viewing the Git Commit History",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_986",
-          "id": 986,
-          "text": "Changes that have not yet been committed vs. the most recent commit."
+          "id": 5313,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Changes that have not yet been committed vs. the most recent commit.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_7360",
-          "id": 7360,
-          "text": "Changes that have not yet been staged vs. the most recent commit."
+          "id": 4813,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Changes that have not yet been staged vs. the most recent commit.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_3110",
-          "id": 3110,
-          "text": "Any two commits."
+          "id": 4417,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Any two commits.</p>"
         },
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_9643",
-          "id": 9643,
-          "text": "Any two branches."
+          "id": 1163,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>Any two branches.</p>"
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_4880",
-          "id": 4880,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 5634,
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0,
+          "html": "<p>I don't know</p>"
         }
       ],
       "variables": null,
@@ -376,39 +410,42 @@
       "id": 289919,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 6,
+      "assessment_question_id": 631176,
+      "position": null,
       "question_name": "Question 6",
       "question_type": "multiple_answers_question",
-      "question_text": "Under normal circumstances (i.e., when <code>HEAD</code> is <strong>not</strong> in a detached state), <code>HEAD</code> refers to which of the following?",
+      "question_text": "<p>Under normal circumstances (i.e., when <code>HEAD</code> is <strong>not</strong> in a detached state),\n<code>HEAD</code> refers to which of the following?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Viewing the Git Commit History",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_234",
-          "id": 234,
-          "text": "The most recent commit on the branch that is currently checked out."
+          "id": 9564,
+          "text": "",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0,
+          "html": "<p>The most recent commit on the branch that is currently checked out.</p>"
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_6799",
-          "id": 6799,
-          "text": "The most recent commit on the main branch.",
-          "comments": "Close! HEAD refers to the most recent commit on whatever branch is currently checked out, which may or may not be the main branch.",
-          "comments_html": "Close! <code>HEAD</code> refers to the most recent commit on whatever branch is currently checked out, which may or may not be the main branch."
+          "id": 4125,
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Close! <code>HEAD</code> refers to the most recent commit on whatever branch is currently\nchecked out, which may or may not be the main branch.</p>",
+          "weight": 0.0,
+          "html": "<p>The most recent commit on the main branch.</p>"
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_7691",
-          "id": 7691,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 1260,
+          "text": "",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0,
+          "html": "<p>I don't know</p>"
         }
       ],
       "variables": null,
@@ -422,25 +459,20 @@
       "id": 289920,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 7,
+      "assessment_question_id": 631172,
+      "position": null,
       "question_name": "Question 7",
       "question_type": "short_answer_question",
-      "question_text": "<p>What markdown would we use to display \"Instructions\" as a second-level header? Fill in the blank:</p>\n<p><span>____ Instructions</span></p>",
+      "question_text": "<p>What markdown would we use to display \"Instructions\" as a second-level header?\nFill in the blank:</p>\n\n<p>____ Instructions</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Viewing the Git Commit History",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Viewing the Git Commit History\" href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/viewing-the-git-commit-history\">Viewing the Git Commit History</a></li></ul><p></p>",
       "answers": [
-        {
-          "text": "##",
-          "weight": 100,
-          "comments": "",
-          "id": 6408
-        }
+
       ],
       "variables": null,
       "formulas": null,
@@ -453,31 +485,32 @@
       "id": 289921,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 8,
+      "assessment_question_id": 631173,
+      "position": null,
       "question_name": "Question 8",
       "question_type": "true_false_question",
-      "question_text": "The abbreviated version of the SHA can be used in place of the full SHA in any Git command.",
+      "question_text": "<p>The abbreviated version of the SHA can be used in place of the full SHA in any\nGit command.</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Git Basics",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Git Basics\" href=\"/courses/6638/pages/git-basics\">Git Basics</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/git-basics\">Git Basics</a></li></ul><p></p>",
       "answers": [
         {
+          "comments": "",
+          "comments_html": "",
+          "text": "True",
           "weight": 100,
-          "migration_id": "RESPONSE_4949",
-          "id": 4949,
-          "text": "True"
+          "id": 4949
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_8569",
-          "id": 8569,
+          "comments": "",
+          "comments_html": "<p>Not quite. The abbreviated SHA shown by Git in some views uniquely identifies\nthe commit and can be used in place of the full SHA.</p>",
           "text": "False",
-          "comments": "Not quite. The abbreviated SHA shown by Git in some views uniquely identifies the commit and can be used in place of the full SHA."
+          "weight": 0,
+          "id": 8569
         }
       ],
       "variables": null,
@@ -491,55 +524,66 @@
       "id": 289922,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 9,
+      "assessment_question_id": 631167,
+      "position": null,
       "question_name": "Question 9",
       "question_type": "multiple_choice_question",
-      "question_text": "<span>What is&nbsp;</span><code>git branch</code><span>?</span>",
+      "question_text": "<p>What is&nbsp;<code>git branch</code>?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Working with Branches",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_3198",
-          "id": 3198,
-          "text": "A command that creates a separate set of commits from other commits to the same repository."
+          "id": 2260,
+          "text": "",
+          "html": "<p>A command that creates a separate set of commits from other commits to the same\nrepository.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_1192",
-          "id": 1192,
-          "text": "A command that creates a copy of the repository in your git profile"
+          "id": 4051,
+          "text": "",
+          "html": "<p>A command that creates a copy of the repository in your git profile</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_4836",
-          "id": 4836,
-          "text": "A command that combines two repositories."
+          "id": 9220,
+          "text": "",
+          "html": "<p>A command that combines two repositories.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_2336",
-          "id": 2336,
-          "text": "A command that splits files into folders"
+          "id": 3178,
+          "text": "",
+          "html": "<p>A command that splits files into folders</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_5594",
-          "id": 5594,
-          "text": "A command that switches your work to the main branch."
+          "id": 2803,
+          "text": "",
+          "html": "<p>A command that switches your work to the main branch.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_8882",
-          "id": 8882,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 9958,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -553,64 +597,66 @@
       "id": 289923,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 10,
+      "assessment_question_id": 631175,
+      "position": null,
       "question_name": "Question 10",
       "question_type": "multiple_choice_question",
-      "question_text": "Which one of the following actions creates a copy of a repository in the GitHub account of the person performing the action?",
+      "question_text": "<p>Which one of the following actions creates a copy of a repository in the GitHub\naccount of the person performing the action?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Getting Code with GitHub",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_2097",
-          "id": 2097,
-          "text": "Forking a repository",
-          "comments": "CORRECT!! Forking a repository creates a copy of the original repository in your account so you can make changes without affecting the original repository until you choose to submit a pull request which lets the owner know you have suggested changes that you think they should merge.",
-          "comments_html": "CORRECT!!&nbsp; Forking a repository creates a copy of the original repository in your account so you can make changes without affecting the original repository until you choose to submit a pull request which lets the owner know you have suggested changes that you think they should merge."
+          "id": 2094,
+          "text": "",
+          "html": "<p>Forking a repository</p>",
+          "comments": "",
+          "comments_html": "<p>CORRECT!!&nbsp; Forking a repository creates a copy of the original repository\nin your account so you can make changes without affecting the original\nrepository until you choose to submit a pull request which lets the owner know\nyou have suggested changes that you think they should merge.</p>",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_8808",
-          "id": 8808,
-          "text": "Cloning a repository",
-          "comments": "Not quite. Cloning a repository creates a working copy of one of your repositories so you can make changes and push them to the remote on GitHub.",
-          "comments_html": "Not quite. <span>Cloning a repository creates a working copy of one of your repositories so you can make changes and push them to the remote on GitHub.</span>"
+          "id": 9015,
+          "text": "",
+          "html": "<p>Cloning a repository</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. Cloning a repository creates a working copy of one of your\nrepositories so you can make changes and push them to the remote on GitHub.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_6944",
-          "id": 6944,
-          "text": "Creating a branch",
-          "comments": "Not quite. Creating a branch allows anyone collaborating on the same repository to work on changes without affecting the main branch for the purpose of merging the changes later."
+          "id": 8487,
+          "text": "",
+          "html": "<p>Creating a branch</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. Creating a branch allows anyone collaborating on the same repository\nto work on changes without affecting the main branch for the purpose of merging\nthe changes later.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_6818",
-          "id": 6818,
-          "text": "Using pull to retrieve a repository",
-          "comments": "Not quite. Using the git pull command pulls the current state from the remote on GitHub to ensure that your local copy is up to date.",
-          "comments_html": "Not quite. Using the <code>git pull</code> command pulls the current state from the remote on GitHub to ensure that your local copy is up to date."
+          "id": 4448,
+          "text": "",
+          "html": "<p>Using pull to retrieve a repository</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. Using the <code>git pull</code> command pulls the current state from the remote\non GitHub to ensure that your local copy is up to date.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_4370",
-          "id": 4370,
-          "text": "Merging a branch in a repository",
-          "comments": "Not quite. Merging a branch. syncs the commits from a branch to the master branch.",
-          "comments_html": "Not quite. <span style=\"color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;\">Merging a branch. syncs the commits from a branch to the master branch.</span>"
+          "id": 8928,
+          "text": "",
+          "html": "<p>Merging a branch in a repository</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. Merging a branch. syncs the commits from a branch to the master\nbranch.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_9645",
-          "id": 9645,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 3371,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -624,48 +670,50 @@
       "id": 289924,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 11,
+      "assessment_question_id": 631163,
+      "position": null,
       "question_name": "Question 11",
       "question_type": "multiple_choice_question",
-      "question_text": "Which of the following is the best description of GitHub?",
+      "question_text": "<p>Which of the following is the best description of GitHub?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Getting Code with GitHub",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_8363",
-          "id": 8363,
-          "text": "An internet hosting service for software development and version control using Git",
-          "comments": "CORRECT!! Github is an internet hosting service for software development and version control using Git.It offers the distributed version control and source code management functionality of Git, plus its own features.",
-          "comments_html": "<span>CORRECT!! Github is an internet hosting service for software development and version control using Git.&nbsp;</span><span>It offers the distributed version control and source code management functionality of Git, plus its own features.</span>"
+          "id": 1371,
+          "text": "",
+          "html": "<p>An internet hosting service for software development and version control using\nGit</p>",
+          "comments": "",
+          "comments_html": "<p>CORRECT!! Github is an internet hosting service for software development and version control using Git.&nbsp;It offers the distributed version control and source code management functionality of Git, plus its own features.</p>",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3658",
-          "id": 3658,
-          "text": "An software package for project collaboration",
-          "comments": "Not quite. Collaboration is a great feature of GitHub, but not its main focus or purpose."
+          "id": 1730,
+          "text": "",
+          "html": "<p>An software package for project collaboration</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. Collaboration is a great feature of GitHub, but not its main focus or\npurpose.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_7346",
-          "id": 7346,
-          "text": "An online application for connecting with other users",
-          "comments": "Not quite. GitHub is not for connecting with other users, although it does have some functionality that allows you to connect with others.",
-          "comments_html": "Not quite. <span>GitHub is not for connecting with other users, although it does have some functionality that allows you to connect with others.</span>"
+          "id": 4863,
+          "text": "",
+          "html": "<p>An online application for connecting with other users</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. GitHub is not for connecting with other users, although it does have\nsome functionality that allows you to connect with others.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_6516",
-          "id": 6516,
-          "text": "I don't know",
-          "comments": "Be sure to review the source(s) for this question. You'll get it next time!"
+          "id": 9586,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source(s) for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -679,115 +727,58 @@
       "id": 289925,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 12,
+      "assessment_question_id": 631177,
+      "position": null,
       "question_name": "Question 12",
       "question_type": "multiple_choice_question",
-      "question_text": "<span>Why would you fork a repository before cloning?</span>",
+      "question_text": "<p>Why would you fork a repository before cloning?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Getting Code with GitHub Collaborating with Git and GitHub",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Getting Code with GitHub\" href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li>\n<li><a title=\"Collaborating with Git and GitHub\" href=\"/courses/6638/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/getting-code-with-github\">Getting Code with GitHub</a></li><li><a href=\"/courses/6638/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_5642",
-          "id": 5642,
-          "text": "So that you can collaborate with the repository's owner",
-          "comments": "CORRECT!! When you create a fork in a repository, you are creating your own branch in the repository so that you can work with the repository locally to make changes to the contents of the repository and submit a pull request for the owner to review your suggested changes."
+          "id": 2874,
+          "text": "",
+          "html": "<p>So that you can collaborate with the repository's owner</p>",
+          "comments": "",
+          "comments_html": "<p>CORRECT!! When you create a fork in a repository, you are creating your own\nbranch in the repository so that you can work with the repository locally to\nmake changes to the contents of the repository and submit a pull request for the\nowner to review your suggested changes.</p>",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_9700",
-          "id": 9700,
-          "text": "So that you can pull changes down",
-          "comments": "Creating the fork and cloning it pulls the current state of the repository at that point, but any future changes will need to be pulled manually."
+          "id": 5666,
+          "text": "",
+          "html": "<p>So that you can pull changes down</p>",
+          "comments": "",
+          "comments_html": "<p>Creating the fork and cloning it pulls the current state of the repository at\nthat point, but any future changes will need to be pulled manually.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_4864",
-          "id": 4864,
-          "text": "So that you can publish any changes you make",
-          "comments": "You can publish changes to the contents of the repository by simply cloning, although your changes will not be added as suggestions on the original repository without forking."
+          "id": 8022,
+          "text": "",
+          "html": "<p>So that you can publish any changes you make</p>",
+          "comments": "",
+          "comments_html": "<p>You can publish changes to the contents of the repository by simply cloning,\nalthough your changes will not be added as suggestions on the original\nrepository without forking.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_9081",
-          "id": 9081,
-          "text": "So that you can have the repo locally",
-          "comments": "Cloning alone will give you the contents of the repository for you to work with, there is no need to fork unless you wish to collaborate with the original repository owner."
+          "id": 1726,
+          "text": "",
+          "html": "<p>So that you can have the repo locally</p>",
+          "comments": "",
+          "comments_html": "<p>Cloning alone will give you the contents of the repository for you to work with,\nthere is no need to fork unless you wish to collaborate with the original\nrepository owner.</p>",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_14",
-          "id": 14,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
-        }
-      ],
-      "variables": null,
-      "formulas": null,
-      "answer_tolerance": null,
-      "formula_decimal_places": null,
-      "matches": null,
-      "matching_answer_incorrect_matches": null
-    },
-    {
-      "id": 289926,
-      "quiz_id": 42564,
-      "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 13,
-      "question_name": "Question 13",
-      "question_type": "multiple_choice_question",
-      "question_text": "What is <code>git branch</code>?",
-      "points_possible": 1.0,
-      "correct_comments": "",
-      "incorrect_comments": "",
-      "neutral_comments": "Source/s:  Working with Branches",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
-      "answers": [
-        {
-          "weight": 100,
-          "migration_id": "RESPONSE_3673",
-          "id": 3673,
-          "text": "A command that creates a separate set of commits from other commits to the same repository."
-        },
-        {
-          "weight": 0,
-          "migration_id": "RESPONSE_5553",
-          "id": 5553,
-          "text": "A command that creates a copy of the repository in your git profile"
-        },
-        {
-          "weight": 0,
-          "migration_id": "RESPONSE_4488",
-          "id": 4488,
-          "text": "A command that combines two repositories."
-        },
-        {
-          "weight": 0,
-          "migration_id": "RESPONSE_441",
-          "id": 441,
-          "text": "A command that splits files into folders"
-        },
-        {
-          "weight": 0,
-          "migration_id": "RESPONSE_7521",
-          "id": 7521,
-          "text": "A command that switches your work to the main branch."
-        },
-        {
-          "weight": 0,
-          "migration_id": "RESPONSE_6692",
-          "id": 6692,
-          "text": "I don't know",
-          "comments": "Be sure to review the source(s) for this question. You'll get it next time!"
+          "id": 1501,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -801,46 +792,50 @@
       "id": 289927,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 14,
+      "assessment_question_id": 631166,
+      "position": null,
       "question_name": "Question 14",
       "question_type": "multiple_choice_question",
-      "question_text": "<div id=\"question_162984_question_text\" class=\"question_text user_content enhanced\">\n<p>What is the command to check out and begin working on an<span>&nbsp;</span><strong>existing</strong><span>&nbsp;</span>branch called<span>&nbsp;</span><code>bobs_branch</code>?</p>\n</div>\n<div class=\"answers\">\n<div class=\"answers_wrapper\">\n<div id=\"answer_7686\" class=\"answer answer_for_                                                   correct_answer\" title=\". This was the correct answer.\" aria-describedby=\"answer_7686_arrow\"></div>\n</div>\n</div>",
+      "question_text": "<p>What is the command to check out and begin working on\nan&nbsp; <strong>existing</strong> &nbsp;branch called&nbsp;<code>bobs_branch</code>?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Working with Branches",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Working with Branches\" href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/working-with-branches\">Working with Branches</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_1012",
-          "id": 1012,
-          "text": "git switch bobs_branch",
-          "html": "<code>git switch bobs_branch</code>"
+          "id": 9374,
+          "text": "",
+          "html": "<p><code>git switch bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_8768",
-          "id": 8768,
-          "text": "git branch bobs_branch",
-          "html": "<code>git branch bobs_branch</code>"
+          "id": 663,
+          "text": "",
+          "html": "<p><code>git branch bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3310",
-          "id": 3310,
-          "text": "git new bobs_branch",
-          "html": "<code>git new bobs_branch</code>"
+          "id": 9730,
+          "text": "",
+          "html": "<p><code>git new bobs_branch</code></p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3681",
-          "id": 3681,
-          "text": "I don't know",
-          "comments": "Be sure to review the source/s for this question. You'll get it next time!"
+          "id": 2059,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source/s for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -854,30 +849,32 @@
       "id": 289928,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 15,
+      "assessment_question_id": 631164,
+      "position": null,
       "question_name": "Question 15",
       "question_type": "short_answer_question",
-      "question_text": "The <code>git merge</code> command is used to merge one ____ into another.&nbsp;",
+      "question_text": "<p>The <code>git merge</code> command is used to merge one ____ into another.&nbsp;</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Merging Branches with Git",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Merging Branches with Git\" href=\"/courses/6638/pages/merging-branches-with-git\">Merging Branches with Git</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/merging-branches-with-git\">Merging Branches with Git</a></li></ul><p></p>",
       "answers": [
         {
+          "id": "8377",
           "text": "branch",
-          "weight": 100,
           "comments": "",
-          "id": 8377
+          "comments_html": "",
+          "weight": 100
         },
         {
+          "id": "2394",
           "text": "Branch",
-          "weight": 100,
           "comments": "",
-          "id": 2394
+          "comments_html": "",
+          "weight": 100
         }
       ],
       "variables": null,
@@ -891,49 +888,58 @@
       "id": 289929,
       "quiz_id": 42564,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 16,
+      "assessment_question_id": 631171,
+      "position": null,
       "question_name": "Question 16",
       "question_type": "multiple_choice_question",
-      "question_text": "What is a pull request?",
+      "question_text": "<p>What is a pull request?</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
       "neutral_comments": "Source/s:  Collaborating with Git and GitHub",
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p>\n<ul>\n<li><a title=\"Collaborating with Git and GitHub\" href=\"/courses/6638/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li>\n</ul>",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"/courses/6638/pages/collaborating-with-git-and-github\">Collaborating with Git and GitHub</a></li></ul><p></p>",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_1578",
-          "id": 1578,
-          "text": "A request to other members of a team that two branches be merged."
+          "id": 520,
+          "text": "",
+          "html": "<p>A request to other members of a team that two branches be merged.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_1447",
-          "id": 1447,
-          "text": "A request to other members of a team to pull a repo down to their local computers."
+          "id": 8724,
+          "text": "",
+          "html": "<p>A request to other members of a team to pull a repo down to their local\ncomputers.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3833",
-          "id": 3833,
-          "text": "A git command to pull changes to a repo down to your local copy."
+          "id": 6998,
+          "text": "",
+          "html": "<p>A git command to pull changes to a repo down to your local copy.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3255",
-          "id": 3255,
-          "text": "A request to clone someone else’s repository."
+          "id": 1174,
+          "text": "",
+          "html": "<p>A request to clone someone else’s repository.</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_7494",
-          "id": 7494,
-          "text": "I don't know",
-          "comments": "Be sure to review the source(s) for this question. You'll get it next time!"
+          "id": 2224,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to review the source(s) for this question. You'll get it next time!</p>",
+          "weight": 0.0
         }
       ],
       "variables": null,
